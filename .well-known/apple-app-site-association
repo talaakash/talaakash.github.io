@@ -5,7 +5,12 @@
             "components": [{
                 "/": "/kids",
                 "comment": "Matches any URL whose path starts with /kids"
-            }]
+            },
+            {
+                "/": "/adults",
+                "comment": "Matches any URL whose path starts with /kids"
+            }
+        ]
         }]
     }
 }
